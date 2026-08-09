@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业战略、组织与人力研究"
+  short_description: "通过行业与企业对标研究组织模式并形成组织与人力启示"
+  default_prompt: "使用 $analyze-business-organization-context 对标研究目标企业所在行业、代表性企业的战略经营与组织模式，并形成组织与人力启示。"
