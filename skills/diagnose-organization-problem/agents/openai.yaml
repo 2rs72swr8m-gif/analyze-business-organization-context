@@ -1,4 +1,0 @@
-interface:
-  display_name: "判断是否为组织问题"
-  short_description: "区分组织、流程、能力与执行问题，判断是否需要调整组织"
-  default_prompt: "使用 $diagnose-organization-problem 判断当前管理症状是否构成组织问题，以及是否需要调整组织。"
